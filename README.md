@@ -1,2 +1,2 @@
 # testing
-buat belajar
+buat belajar git hub 
